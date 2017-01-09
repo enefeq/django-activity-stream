@@ -1,6 +1,7 @@
 Django Activity Stream
 ======================
 
+* Note: this is a custom E3 build to incorporate django-jsonfield-compat *
 
 .. image:: https://img.shields.io/coveralls/justquick/django-activity-stream.svg
     :target: https://coveralls.io/r/justquick/django-activity-stream
